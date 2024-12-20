@@ -2,7 +2,8 @@
   "name": "@thdk/lib-c",
   "version": "0.0.1",
   "dependencies": {
-    "tslib": "^2.3.0"
+    "tslib": "^2.3.0",
+    "@thdk/lib-a": "0.0.1"
   },
   "type": "commonjs",
   "main": "./dist/index.js",
