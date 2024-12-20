@@ -27,7 +27,10 @@ npx nx sync
 npx nx run-many --target build
 
 # configure nx release in nx.json
-# ...
+# (see 'release' in nx.json )
+
+# configure nx-release-publish target options in nx.json
+# (see 'targetDefaults.nx-release-publish' in nx.json)
 
 # start local verdaccio registry
 npx nx local-registry
