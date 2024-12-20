@@ -8,6 +8,9 @@
     },
     {
       "path": "./libs/lib-b"
+    },
+    {
+      "path": "./libs/lib-c"
     }
   ]
 }
