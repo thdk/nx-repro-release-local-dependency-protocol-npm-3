@@ -18,7 +18,8 @@
     "verdaccio": "^5.0.4"
   },
   "workspaces": [
-    "packages/**"
+    "packages/**",
+    "libs/**"
   ],
   "nx": {
     "includedScripts": [],
