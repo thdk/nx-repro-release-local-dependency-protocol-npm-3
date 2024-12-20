@@ -4,6 +4,9 @@
   "include": [],
   "references": [
     {
+      "path": "../lib-b"
+    },
+    {
       "path": "../lib-a"
     },
     {
