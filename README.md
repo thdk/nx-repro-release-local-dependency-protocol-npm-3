@@ -25,4 +25,16 @@ npx nx sync
 
 # build (just for fun)
 npx nx run-many --target build
+
+# configure nx release in nx.json
+# ...
+
+# start local verdaccio registry
+npx nx local-registry
+
+# release (dry-run)
+npx nx release --dry-run
+
+# release
+npx nx release
 ```
