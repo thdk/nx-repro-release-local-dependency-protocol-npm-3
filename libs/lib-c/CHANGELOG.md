@@ -1,3 +1,13 @@
+## 0.3.0 (2024-12-20)
+
+### 🚀 Features
+
+- **lib-c:** feature 2
+
+### ❤️ Thank You
+
+- Thomas Dekiere
+
 ## 0.2.0 (2024-12-20)
 
 ### 🚀 Features
