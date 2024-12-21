@@ -1,3 +1,13 @@
+## 0.4.0 (2024-12-21)
+
+### 🚀 Features
+
+- feature 2
+
+### ❤️ Thank You
+
+- Thomas Dekiere
+
 ## 0.3.0 (2024-12-20)
 
 ### 🚀 Features
