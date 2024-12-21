@@ -26,6 +26,7 @@
     "version": {
       "preVersionCommand": "npx nx run-many --target build --exclude='*,!tag:publishable'",
       "generatorOptions": {
+        "packageRoot": "dist/{projectRoot}",
         "specifierSource": "conventional-commits",
         "currentVersionResolver": "git-tag",
         "updateDependents": "auto",
@@ -50,7 +51,8 @@
   "targetDefaults": {
     "nx-release-publish": {
       "options": {
-        "tag": "latest"
+        "tag": "latest",
+        "packageRoot": "dist/{projectRoot}"
       }
     }
   }
