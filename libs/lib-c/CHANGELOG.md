@@ -1,3 +1,9 @@
+## 0.4.1 (2024-12-21)
+
+### 🧱 Updated Dependencies
+
+- Updated lib-a to 0.2.0
+
 ## 0.4.0 (2024-12-21)
 
 ### 🚀 Features
